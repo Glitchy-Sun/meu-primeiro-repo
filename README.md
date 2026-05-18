@@ -1,4 +1,5 @@
-# Explicação do porquê ter o nome Demeter: # ## É uma referência a umas das maiores batalhas do mundo dos jogos. ##
+# Explicação do porquê ter o nome Demeter: # 
+## É uma referência a umas das maiores batalhas do mundo dos jogos. ##
 
 A _Batalha de Demeter_ **(Battle of Demeter)** foi o conflito mais crucial e decisivo da Guerra da Fronteira no universo de **Titanfall** (especificamente no final do primeiro jogo).
 Ela marcou a transição da Milícia de um grupo rebelde desorganizado para uma força militar capaz de enfrentar a IMC _(Interstellar Manufacturing Corporation)_ de igual para igual.
